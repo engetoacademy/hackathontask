@@ -13,7 +13,7 @@ Podmienky na generovanie a overenie rodného čísla sú nasledovné:
  * ženy majú v mesiaci narodenia pridanú hodnotu 50
 
 ### Príklad: 
-**861107/2239** je validné rodné číslo pre muža, ktorý sa narodil 7.11.1986. <br>**025226/1313** je validné rodné číslo ženy narodenej 26.02.2002.
+**861107/2239** je validné rodné číslo pre muža, ktorý sa narodil 7.11.1986. <br>**025226/1306** je validné rodné číslo ženy narodenej 26.02.2002.
 
 Pre spustenie overenia rodného čísla použijeme príkaz: 
 
